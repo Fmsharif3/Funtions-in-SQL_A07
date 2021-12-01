@@ -1,0 +1,30 @@
+Fatima Sharif 
+November 30, 2021 
+IT FDN 130 A
+Assignment08
+
+Functions
+
+ntroduction
+
+In this paper I will be going over SQL User Defined Functions while also discussing the similarities 
+and differences between Scalar, Inline, and Multi-Statement Functions.
+
+SQL UDF
+
+SQL User Defined Function (UDF) allows users to create reusable functions. After a user has created a UDF
+they are able to reference it in queries or when creating views. Some commonly used SQL UDF are Scalar, Inline, 
+and Multi-Statement Functions.
+
+Differences between Scalar, Inline, and Multi-Statement Functions
+
+When working with Scalar, Inline, and Multi-Statement Functions you’ll notice there are a few differences and 
+similarities between the three Functions. Both Inline and Multi-Statement Functions return tables, while Scalar 
+functions returns a single value of the type defined in the RETURNS clause. Inline and Multi-Statement Functions 
+both return tables but the structure of these functions are different. Multi-Statement Functions has a return table 
+variable whereas Inline Functions doesn’t.
+
+Summary
+
+In this paper I went over SQL UDF while also discussing the similarities and differences between Scalar, Inline, and Multi-Statement Functions.
+ 
